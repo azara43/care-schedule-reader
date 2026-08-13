@@ -1,0 +1,14 @@
+# Your own legend and photos are private. Never commit them.
+legend.md
+care-legend.md
+*.jpg
+*.jpeg
+*.heic
+photos/
+schedules/
+
+# Keep the fictional demo assets
+!examples/sample-schedule.png
+
+.DS_Store
+__pycache__/
