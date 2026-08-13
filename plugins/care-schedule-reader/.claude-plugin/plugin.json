@@ -2,7 +2,7 @@
   "name": "care-schedule-reader",
   "version": "0.1.0",
   "description": "Read photos of handwritten or printed care schedules — nursing rosters, therapy calendars, sticky-note wall calendars — and turn them into structured records with deadlines, transport, and confidence tags.",
-  "author": { "name": "Tadashi Nomura" },
+  "author": { "name": "azara43" },
   "homepage": "https://github.com/azara43/care-schedule-reader",
   "license": "MIT",
   "keywords": ["caregiving", "schedule", "ocr", "calendar", "accessibility", "disability", "home-nursing"]

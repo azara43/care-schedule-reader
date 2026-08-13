@@ -1,8 +1,7 @@
 {
   "name": "care-tools",
   "owner": {
-    "name": "Tadashi Nomura",
-    "email": "YOUR_EMAIL"
+    "name": "azara43"
   },
   "plugins": [
     {
@@ -10,7 +9,7 @@
       "source": "./plugins/care-schedule-reader",
       "description": "Read photos of handwritten care schedules and turn them into structured, confidence-tagged records with deadlines extracted.",
       "version": "0.1.0",
-      "author": { "name": "Tadashi Nomura" }
+      "author": { "name": "azara43" }
     }
   ]
 }
